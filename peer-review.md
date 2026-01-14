@@ -6,7 +6,7 @@ title: Peer Review Protocol
 # SOP: Argumentative Research Workshop (Unit 2)
 
 **Scope:** Unit 2 Argumentative Research (Essay 2)
-**Timeline:** Wednesday (Async Feedback) $\rightarrow$ Friday (Sync Workshop)
+**Timeline:** Wednesday (Async Feedback) → Friday (Sync Workshop)
 **Feedback Framework:** A.R.C. (Arguable, Rational, Cohesive)
 
 ## 1. The A.R.C. Feedback Framework
