@@ -10,7 +10,7 @@ title: Notification Configuration
 
 ## 1. Accessing Your Notification Settings
 1.  Log in to Canvas.
-2.  In the global navigation menu (far left), click **Account** $\rightarrow$ **Notifications**.
+2.  In the global navigation menu (far left), click **Account** → **Notifications**.
 3.  Locate the column labeled **"Email Address"** (or Push Notification if using the mobile app).
 
 ## 2. Required Alert Settings
